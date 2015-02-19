@@ -28,7 +28,7 @@ LIST OF METHODS TO VALIDATE HTML FORM FIELDS:
 	* msg
 
 
-REQUIRED:
+REQUIRED:-
 	
 	Deifines the form element is required  
 	ex:required="true"
